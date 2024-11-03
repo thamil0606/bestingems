@@ -7,6 +7,7 @@ import ProductTable from './ProductTable';
 import Button from './Button';
 import '../styles/Dashboard.css';
 
+
 const Dashboard = () => {
   return (
     <div className="dashboard">
